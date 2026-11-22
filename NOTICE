@@ -1,0 +1,19 @@
+# Catwalk Notices
+
+Catwalk (formerly LOMO, Low Overhead Markdown Overwatch) was created by John Anthony
+Mariquit. Copyright (c) 2026 John Anthony Mariquit <john@mariquit.com>.
+The software is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
+
+## Community Documents
+
+[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) is adapted from [Contributor Covenant
+2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), released
+under [Creative Commons Attribution 4.0 International](https://github.com/EthicalSource/contributor_covenant/blob/2.1/LICENSE.md).
+The reporting and moderation instructions were adapted for this project. The Contributor
+Covenant credits Mozilla's code of conduct enforcement ladder as inspiration for
+its Community Impact Guidelines.
+
+## Rust Dependencies
+
+The Rust dependencies listed in [Cargo.lock](Cargo.lock) retain their own
+license terms.
